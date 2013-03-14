@@ -6,3 +6,5 @@ please don't change them.
 i added these lines via windows notepad without touching any git settings.
 
 the diff in github's app appears to be just these lines.
+
+this line was added using dreamweaver's code view, as well as a hard break just above.
