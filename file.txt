@@ -1,3 +1,8 @@
 this file has unix (lf) line endings.
 
 please don't change them.
+
+----
+i added these lines via windows notepad without touching any git settings.
+
+the diff in github's app appears to be just these lines.
